@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1bhJe9zBNATZpVDQ0d-iLQjS_HhLvMYN75NSWfNFt72Y/pub)  
 - 💬 **Ask me about**: Data Analytics | SQL | Excel | Power BI | tableau | Python | DWH
-- 📫 **Reach me at**: [dev.eltaweelomar97@gmail.com](mailto:dev.eltaweelomar97@gmail.com) |**+966 545046559**| **+20 1557504902**  
+- 📫 **Reach me at**: [dev.eltaweelomar97@gmail.com](mailto:dev.eltaweelomar97@gmail.com) |**+966 545046559**| **+20 1026363117**  
 - ⚡ **Fun fact**: Life ends not when we die, but when we stop trying.!  
 
 ---
